@@ -1,6 +1,6 @@
 # Buildtask for librabbitmq1
 
-[![Build Status](https://travis-ci.org/marcelosousaalmeida/librabbitmq1-builddeb.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/librabbitmq1-builddeb)
+[![Build Status](https://travis-ci.org/marceloalmeida/librabbitmq1-builddeb.svg?branch=master)](https://travis-ci.org/marceloalmeida/librabbitmq1-builddeb)
 
 Task to build Debian packages librabbitmq1.
 
